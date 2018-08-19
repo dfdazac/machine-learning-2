@@ -20,3 +20,5 @@ $ source activate machine-learning-2
 # Explore the notebooks
 $ jupyter notebook
 ```
+
+- [Visualizing sequential Bayesian learning](00-bayesian-learning.ipynb)
