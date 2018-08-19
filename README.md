@@ -16,7 +16,7 @@ Notebooks
 
 ```shell
 # Activate the environment
-$ source activate machine
+$ source activate machine-learning-2
 # Explore the notebooks
 $ jupyter notebook
 ```
